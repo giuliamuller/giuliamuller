@@ -7,6 +7,6 @@ Meu nome é Giulia Muller
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-### Você entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 muller.giulia@escola.pr.gov.br
   
